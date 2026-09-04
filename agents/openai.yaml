@@ -1,0 +1,4 @@
+interface:
+  display_name: "劳动维权实务方略"
+  short_description: "面向劳动者的风险判断、证据保存、沟通取证、文书及仲裁实务助手"
+  default_prompt: "使用 $labor-rights-practice-strategy 分析我的劳动争议，并先告诉我现在应保存什么、下一次应询问什么，以及是否需要向企业发出书面文书并存证。"
